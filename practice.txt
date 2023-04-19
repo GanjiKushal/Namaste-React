@@ -1,0 +1,42 @@
+// const parent = React.createElement("div", { id: "parent" }, [
+//   React.createElement("div", { id: "child" }, [
+//     React.createElement("h1", {}, "Iam an h1 tag"),
+//     React.createElement("h2", {}, "Iam an h2 tag"),
+//   ]),
+//   React.createElement("div", { id: "child" }, [
+//     React.createElement("h1", {}, "Iam an h1 tag"),
+//     React.createElement("h2", {}, "Iam an h2 tag"),
+//   ]),
+// ]);
+
+// const heading = React.createElement(
+//   "h1",
+//   { id: "heading" },
+//   "Hello World from React..."
+// );
+// console.log(heading); //heading is a object
+// const root = ReactDOM.createRoot(document.getElementById("root"));
+// // root.render(heading);
+// root.render(parent);
+
+
+ <!-- <div>This is Top Div</div> -->
+    <div id="root">
+      <!-- <h1>Hello World</h1> -->
+      <!-- <script>
+        let heading=document.createElement("h1")
+        heading.innerHTML="Hello World from Javascript"
+
+        const root=document.getElementById("root")
+        root.appendChild(heading)
+      </script> -->
+    </div>
+    <!-- <div>This is Bottom Div</div> -->
+    <!-- <script
+      crossorigin
+      src="https://unpkg.com/react@18/umd/react.development.js"
+    ></script>
+    <script
+      crossorigin
+      src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"
+    ></script> -->

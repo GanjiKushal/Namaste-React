@@ -1,0 +1,30 @@
+{
+  "name": "akshay-react",
+  "version": "1.0.0",
+  "description": "Namaste React by Akshay Saini",
+  
+  "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GanjiKushal/Namaste-React.git"
+  },
+  "keywords": [],
+  "author": "Ganji Kushal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GanjiKushal/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/GanjiKushal/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
