@@ -29,9 +29,7 @@
     cursor: pointer;
     border: 1px solid black;
 }
-.search{
-    padding: 10px;
-}
+
 .foodImage{
     width: 100%
 }
@@ -43,4 +41,9 @@
 .filter-btn{
     margin:10px;
     cursor: pointer;
+}
+.footer{
+    border:1px solid black;
+    color:white;
+    background-color: grey;
 }
