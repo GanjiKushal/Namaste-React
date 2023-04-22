@@ -1,4 +1,5 @@
 import React from "react";
+import { useState } from "react";  //useStatd is a named import
 import { LOGO_URL } from "../utils/constants";
 
 export const Header = () => {
